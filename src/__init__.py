@@ -1,0 +1,1 @@
+"""Appointment FAQ example package."""
